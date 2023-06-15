@@ -1,19 +1,14 @@
+# 以下网站打不开需要魔法连接
 # ai_tools_website
-https://chatgpt-sidebar.com/
+## chatgpt类ai引擎平替
+1. https://poe.com/gpt-4
+    >*整合的ai网站平台，chatgpt4和cluade高级版收费，包括一众xx的ai*
 
-https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?hl=zh-CN
-
-https://poe.com/gpt-4
-
-
+## 插件
+1. chatgpt-sidebar.com/
+    >每天免费30次使用，右键一键问chatgpt很方便，可以在edge和chrome的插件商店中找到
 
 
 
-https://github.com/yetone/openai-translator
-
-https://github.com/JimmyLv/BibiGPT
-
-https://www.chatpdf.com/
-
-https://github.com/microsoft/visual-chatgpt
-https://www.notion.so/product/ai
+## 使用chatgpt引擎的有趣网站
+1. https://github.com/JimmyLv/BibiGPT
