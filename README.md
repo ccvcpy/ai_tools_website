@@ -12,3 +12,6 @@
 
 ## 使用chatgpt引擎的有趣网站
 1. https://github.com/JimmyLv/BibiGPT
+
+## ai绘画Lora模型
+1. https://civitai.com/
