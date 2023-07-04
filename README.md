@@ -15,3 +15,6 @@
 
 ## ai绘画Lora模型
 1. https://civitai.com/
+
+## midjourney ai绘画
+1. https://discord.com/channels/662267976984297473/1008571049039896576
